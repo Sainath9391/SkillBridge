@@ -166,7 +166,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="https://github.com/Sainath9391/SkillBridge/blob/main/assets/demo.mp4" target="_blank">
+  <a href="https://raw.githubusercontent.com/Sainath9391/SkillBridge/main/assets/demo.mp4" target="_blank">
     <img src="https://img.shields.io/badge/▶️%20Play%20Demo%20Video-blue?style=for-the-badge" alt="Play Demo Video"/>
   </a>
 </p>
@@ -174,6 +174,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 <p align="center">
   <i>Click the button above to play the demo video directly on GitHub</i>
 </p>
+
 
 ---
 
