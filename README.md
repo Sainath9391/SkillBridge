@@ -163,14 +163,14 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 
+---
+
 ## 🎥 Demo Video
 
-<p align="center">
-  <video width="700" controls>
-    <source src="/assets/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+Watch the demo below 👇  
+
+https://github.com/Sainath9391/SkillBridge/blob/main/assets/demo.mp4
+
 
 ---
 
