@@ -10,7 +10,7 @@
 ## 🏠 Homepage Preview
 
 <p align="center">
-  <img src="123e5af1-786e-4a57-baca-2a4fd2f3c62a.png" alt="SkillBridge Home Page" width="900"/>
+  <img src="HomePage.png" alt="SkillBridge Home Page" width="900"/>
 </p>
 
 ---
