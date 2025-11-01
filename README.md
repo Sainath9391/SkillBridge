@@ -160,17 +160,20 @@ Fork this repository, make improvements, and open a **pull request**.
 
 This project is licensed under the **MIT License** — feel free to use and modify.
 
----
-
 
 ---
 
 ## 🎥 Demo Video
 
-Watch the demo below 👇  
+<p align="center">
+  <a href="https://github.com/Sainath9391/SkillBridge/blob/main/assets/demo.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Play%20Demo%20Video-blue?style=for-the-badge" alt="Play Demo Video"/>
+  </a>
+</p>
 
-https://github.com/Sainath9391/SkillBridge/blob/main/assets/demo.mp4
-
+<p align="center">
+  <i>Click the button above to play the demo video directly on GitHub</i>
+</p>
 
 ---
 
